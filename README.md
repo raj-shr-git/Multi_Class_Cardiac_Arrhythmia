@@ -5,6 +5,6 @@ refers to different classes of arrhythmia and class 16 refers to the rest of unc
 classification. However, there are differences between the cardio log’s and the programs classification. Taking the cardio log’s as a gold standard we aim to minimize this
 difference by means of machine learning tools.
 
-## *** Number of Instances: 452***
+## ***Number of Instances: 452***
 
-## *** Number of Attributes: 279 (206 of which are linearly valued and the rest are nominal)*** 
+## ***Number of Attributes: 279 (206 of which are linearly valued and the rest are nominal)*** 
